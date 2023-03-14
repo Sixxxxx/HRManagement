@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VGB6oyTwnMCdcLuLU4dpQKYOEm3W0mqAlBUCP+q9tmzr/rCoYajV8cp3dLyanSvBVlvwW3SdB9d29rdbFw1O9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jcuud\\Documents\\Dev\\Algorithms\\HRManagementSystem\\HRManagementSystem.Services\\HRManagementSystem.Services.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jcuud\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

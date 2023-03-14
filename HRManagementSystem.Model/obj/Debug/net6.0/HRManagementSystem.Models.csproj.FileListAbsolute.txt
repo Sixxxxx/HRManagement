@@ -1,0 +1,12 @@
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Model\bin\Debug\net6.0\HRManagementSystem.Models.deps.json
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Model\bin\Debug\net6.0\HRManagementSystem.Models.dll
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Model\bin\Debug\net6.0\ref\HRManagementSystem.Models.dll
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Model\bin\Debug\net6.0\HRManagementSystem.Models.pdb
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Model\obj\Debug\net6.0\HRManagementSystem.Models.csproj.AssemblyReference.cache
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Model\obj\Debug\net6.0\HRManagementSystem.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Model\obj\Debug\net6.0\HRManagementSystem.Models.AssemblyInfoInputs.cache
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Model\obj\Debug\net6.0\HRManagementSystem.Models.AssemblyInfo.cs
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Model\obj\Debug\net6.0\HRManagementSystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Model\obj\Debug\net6.0\HRManagementSystem.Models.dll
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Model\obj\Debug\net6.0\ref\HRManagementSystem.Models.dll
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Model\obj\Debug\net6.0\HRManagementSystem.Models.pdb

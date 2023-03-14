@@ -1,0 +1,15 @@
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Data\bin\Debug\net6.0\HRManagementSystem.Data.deps.json
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Data\bin\Debug\net6.0\HRManagementSystem.Data.dll
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Data\bin\Debug\net6.0\ref\HRManagementSystem.Data.dll
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Data\bin\Debug\net6.0\HRManagementSystem.Data.pdb
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Data\obj\Debug\net6.0\HRManagementSystem.Data.csproj.AssemblyReference.cache
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Data\obj\Debug\net6.0\HRManagementSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Data\obj\Debug\net6.0\HRManagementSystem.Data.AssemblyInfoInputs.cache
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Data\obj\Debug\net6.0\HRManagementSystem.Data.AssemblyInfo.cs
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Data\obj\Debug\net6.0\HRManagementSystem.Data.csproj.CoreCompileInputs.cache
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Data\obj\Debug\net6.0\HRManagementSystem.Data.dll
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Data\obj\Debug\net6.0\ref\HRManagementSystem.Data.dll
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Data\obj\Debug\net6.0\HRManagementSystem.Data.pdb
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Data\bin\Debug\net6.0\HRManagementSystem.Models.dll
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Data\bin\Debug\net6.0\HRManagementSystem.Models.pdb
+C:\Users\jcuud\Documents\Dev\Algorithms\HRManagementSystem\HRManagementSystem.Data\obj\Debug\net6.0\HRManagementSystem.Data.csproj.CopyComplete
